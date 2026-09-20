@@ -1,0 +1,116 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "RAMBAN",
+    "offices": [
+        {
+            "officeName": "Mahu BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Parindhar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Banihal SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 33.2611,
+            "longitude": 75.1145
+        },
+        {
+            "officeName": "Chambalwas BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Chareel BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "NOWGAM BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 33.437013,
+            "longitude": 75.193935
+        },
+        {
+            "officeName": "Kaskoot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Neel BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Thathar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Duligam BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Mangat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        }
+    ]
+}

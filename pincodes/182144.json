@@ -1,0 +1,146 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "RAMBAN",
+    "offices": [
+        {
+            "officeName": "Dalwah BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Gandhari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Gool BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Ind BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Kanga BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Maitra Bazar BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Sangaldhan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Bhehimdasa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 33.305413,
+            "longitude": 75.061222
+        },
+        {
+            "officeName": "Bhatni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Chachwa BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Deedah BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Dharamkund BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Thatharka BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Ramban SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Udhampur Division",
+            "latitude": 33.1429,
+            "longitude": 75.1402
+        }
+    ]
+}
