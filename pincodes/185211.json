@@ -1,0 +1,206 @@
+{
+    "state": "JAMMU AND KASHMIR",
+    "district": "POONCH",
+    "offices": [
+        {
+            "officeName": "Dharana BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Galhuta BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Gursai BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Sakhi Maidan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Ari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Chatral BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Chuggan BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Kalaban BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Naka Majari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Harni BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Mankot BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Prat BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Dharamsal Mendhar SO",
+            "officeType": "PO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 33.767125,
+            "longitude": 74.092033
+        },
+        {
+            "officeName": "Dhargloon BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Ochhad BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Chhajla BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Jugal BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Kasbalari BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Sagra BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        },
+        {
+            "officeName": "Salwah BO",
+            "officeType": "BO",
+            "deliveryStatus": "Delivery",
+            "circleName": "Jammu Kashmir Circle",
+            "regionName": "JAMMU RN",
+            "divisionName": "Rajouri Division",
+            "latitude": 1,
+            "longitude": 1
+        }
+    ]
+}
